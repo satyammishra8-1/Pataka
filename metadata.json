@@ -1,0 +1,7 @@
+{
+  "name": "Patkha Lab 2026",
+  "description": "Virtual Diwali Fireworks Experience with 20 interactive crackers, burning fuses, canvas explosions, and realistic Web Audio synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
